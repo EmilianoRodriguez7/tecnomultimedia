@@ -1,3 +1,4 @@
+//Emiliano Rodriguez 91569/1
 int estado;
 
 PImage bananas, mono, fondo;
